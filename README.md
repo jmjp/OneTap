@@ -1,16 +1,20 @@
 # onetap
 
-A new Flutter project.
+Um projeto de rede social para compartilhamento de videos, utilizando flutter + firebase
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Login/Registro 100%
+- Sistema de like/comentarios
+- Follow/UnFollow (não introduzido ainda dentro do app, porém cada usuario tem uma array que nela armazena a relação de seguindo/seguidores)
+- Upload de media (Upload de video, porém para é facilmente trocavel por fotos)
+- Feed (ordena os posts por tempo)
+- Infinity Scroll (carrega 2 posts, conforme vai rolando a scroll, carrega mais videos)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![](https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306249.png =250x250)  
+![](https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306253.png =250x250)  
+![](https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306339.png =250x250)  
+![](https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306497.png =250x250)  
+![](https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306569.png =250x250)  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

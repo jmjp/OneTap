@@ -12,6 +12,6 @@ Um projeto de rede social para compartilhamento de videos, utilizando flutter + 
 - Infinity Scroll (carrega 2 posts, conforme vai rolando a scroll, carrega mais videos)
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306249.png" width="100" height="300">
+<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306249.png" width="200" height="300">
 
 

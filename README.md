@@ -12,10 +12,5 @@ Um projeto de rede social para compartilhamento de videos, utilizando flutter + 
 - Infinity Scroll (carrega 2 posts, conforme vai rolando a scroll, carrega mais videos)
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306249.png" width="150" height="300">
-<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306249.png" width="150" height="300">
-<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306253.png" width="150" height="300">
-<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306339.png" width="150" height="300">
-<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306497.png" width="150" height="300">
-<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306569.png" width="150" height="300">
+<img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306249.png" width="150" height="300"><img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306249.png" width="150" height="300"><img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306253.png" width="150" height="300"><img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306339.png" width="150" height="300"><img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306497.png" width="150" height="300"><img src="https://raw.githubusercontent.com/jmjp/OneTap/master/screenshots/Screenshot_1566306569.png" width="150" height="300">
 
